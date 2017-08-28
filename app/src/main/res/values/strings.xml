@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Customer_Management</string>
+    <string name="successful_login_message">Login successful!</string>
+    <string name="unsuccessful_login_message">Login unsuccessful.</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name ="login_button">LOGIN</string>
+    <string name="cancel_button">Cancel</string>
+</resources>
+
+
